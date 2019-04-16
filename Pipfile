@@ -8,6 +8,7 @@ pytest = "*"
 pytest-cov = "*"
 pytest-flake8 = "*"
 ipython = "*"
+python-language-server = "*"
 
 [packages]
 
