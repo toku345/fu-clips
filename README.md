@@ -1,9 +1,8 @@
 # fu-clips
 
-<!-- [![Build Status](https://travis-ci.org/toku345/clips.svg?branch=master)](https://travis-ci.org/toku345/myclips) -->
-<!-- [![Maintainability](https://api.codeclimate.com/v1/badges/03ed229224b41962ea14/maintainability)](https://codeclimate.com/github/toku345/myclips/maintainability) -->
-<!-- [![Test Coverage](https://api.codeclimate.com/v1/badges/03ed229224b41962ea14/test_coverage)](https://codeclimate.com/github/toku345/myclips/test_coverage) -->
-
+[![Build Status](https://travis-ci.com/toku345/fu-clips.svg?branch=master)](https://travis-ci.com/toku345/fu-clips)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d08ec756057b41e32ee6/maintainability)](https://codeclimate.com/github/toku345/fu-clips/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d08ec756057b41e32ee6/test_coverage)](https://codeclimate.com/github/toku345/fu-clips/test_coverage)
 
 # Requirement
 
